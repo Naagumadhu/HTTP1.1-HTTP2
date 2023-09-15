@@ -1,0 +1,79 @@
+What is the HTTP?
+
+	1. Hypertext transfer protocol (HTTP) is the foundation of the world wide web.
+	2. It's used Hypertext transfer links in load a web pages.
+	3. HTTP is an application layer protocol.
+	4. a common flow to way of HTTP, a claint make a request to a server, it sends a reply massege.
+
+--------------
+What is the HTTP/1.1?
+
+	the first using of HTTP was created in 1997. this type of HTTP users facing a many more struggling. the first 
+version of HTTP is HTTP/1.1 and this version currently using.
+
+--------------
+What is the HTTP/2?
+	
+	A new HTTP version called HTTP/2 was created in 2015. HTTP/2 solves several problems that the creators of HTTP/1.1 
+did not anticipate. In particular, HTTP/2 is much faster and more efficient than HTTP/1.1. One of the ways in which HTTP/2 
+is faster is in how it prioritizes content during the loading process.
+
+--------------	
+what is the objects and its internal representation?
+
+	objects is a main role in types of javascript. Objects are different types primitive datatypes for example (i.e. number, string, 
+boolean, etc.). A primitive data types have a old value, but objects form of Key value pair,it can hold multiple format of the values. 
+this keys can be variables or function there was called as properties and methods of objects.
+
+--------------	
+IP address, port, HTTP methods, MAC address :
+
+1. what is the IP address?
+
+	the ip address is four different types of numbes in separated by a period.like this: 192.168. 1.50 numbers have a unique ip 
+address and before can connect the internet, each an IP packet must also have an address before it can be sent to another computer.
+
+--------------
+2. what is the port?
+
+	A particular application or service on a system in Port numbers identify, a ip address identifies is network inside of the network
+of the mschine system, while port numbers identify particular applications or services on a system.
+
+--------------
+3. what is the HTTP?
+
+	* Hypertext transfer protocol (HTTP) is the foundation of the world wide web.
+	* It's used Hypertext transfer links in load a web pages.
+	* HTTP is an application layer protocol.
+	* a common flow to way of HTTP, a claint make a request to a server, it sends a reply massege.
+
+---------------	
+types of HTTP Methods :
+
+	GET
+	POST
+	PUT
+	HEAD
+	DELETE
+	PATCH
+	OPTIONS
+	CONNECT
+	TRACE
+	
+	maximum using get and post methods
+
+----------------
+3. MAC address (media access control)?
+	
+	A 12-digit hexadecimal number assigned to each device connected to the network. Primarily specified as a unique identifier during
+device manufacturing, the MAC address is often found on a device's network interface card (NIC). A MAC address is required when trying to 
+locate a device or when performing diagnostics on a network device.
+
+	The MAC address belongs to the data link layer of the Open Systems Interconnection (OSI) model, To ensure node-to-node
+communication, the source header of the frame data and the destination MAC address are appended.
+	
+	each Network Interruptions  device is assigned a unique mac address, to have more than one MAC address for a device, for example 
+If the laptop has both an Ethernet cable port and built-in Wi-Fi, Two MAC addresses are displayed in the system configuration.
+	
+
+	
